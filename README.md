@@ -7,3 +7,7 @@ Simulasi :
 
 simulasi
 <iframe width="725" height="453" src="https://www.tinkercad.com/embed/3SGBrDef5eT?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
+skema button piano
+<img width="575" height="431" alt="image" src="https://github.com/user-attachments/assets/f8043616-fa66-4135-a90d-d674894bf802" />
+

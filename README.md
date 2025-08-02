@@ -11,3 +11,6 @@ simulasi
 skema button piano
 <img width="575" height="431" alt="image" src="https://github.com/user-attachments/assets/f8043616-fa66-4135-a90d-d674894bf802" />
 
+<img width="708" height="473" alt="image" src="https://github.com/user-attachments/assets/dc754c9c-cbdf-4f3e-a748-31bb13dd487f" />
+
+
